@@ -3,4 +3,4 @@ models--*
 .env
 frontend/node_modules/
 *.exe
-__pycache__/
+__pycache__/requirements.txt
