@@ -270,3 +270,7 @@ We would like to thank our sponsors for their support:
 ## **License**
 
 This project is licensed under the MIT License.
+
+# Contributing
+
+We welcome contributions! Please feel free to submit issues and pull requests.
