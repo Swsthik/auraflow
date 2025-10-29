@@ -274,3 +274,10 @@ This project is licensed under the MIT License.
 # Contributing
 
 We welcome contributions! Please feel free to submit issues and pull requests.
+
+## Troubleshooting
+
+### Common Issues
+
+1. **CUDA out of memory**: Reduce batch size
+2. **Model loading fails**: Check HF_TOKEN environment variable
