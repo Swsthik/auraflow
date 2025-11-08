@@ -1,6 +1,5 @@
-models--*
-.locks/
+*.pyc
+__pycache__/
 .env
-frontend/node_modules/
-*.exe
-__pycache__/requirements.txt
+.vscode/
+*.log
