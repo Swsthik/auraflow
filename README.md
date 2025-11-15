@@ -281,3 +281,10 @@ We welcome contributions! Please feel free to submit issues and pull requests.
 
 1. **CUDA out of memory**: Reduce batch size
 2. **Model loading fails**: Check HF_TOKEN environment variable
+
+## Installation Notes
+
+Make sure to set the HF_TOKEN environment variable before running:
+```bash
+export HF_TOKEN=your_token_here
+```
