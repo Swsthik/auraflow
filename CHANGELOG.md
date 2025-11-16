@@ -7,3 +7,8 @@
 - Improved quantization algorithms
 - Added web interface
 - Performance optimizations
+
+## Version 0.2.1 - November 2025
+- Security: Removed hardcoded API tokens
+- Documentation improvements
+- Bug fixes
